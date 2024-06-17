@@ -1,0 +1,9 @@
+streamlit
+pandas
+wordcloud
+re
+emoji
+datetime
+collections
+matplotlib
+seaborn
