@@ -2,6 +2,4 @@ streamlit==1.35.0
 pandas
 wordcloud
 emoji==1.7.0
-datetime
-collections
 seaborn
