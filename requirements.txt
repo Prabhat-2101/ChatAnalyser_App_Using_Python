@@ -1,9 +1,7 @@
-streamlit
+streamlit==1.35.0
 pandas
 wordcloud
-re
-emoji
+emoji==1.7.0
 datetime
 collections
-matplotlib
 seaborn
